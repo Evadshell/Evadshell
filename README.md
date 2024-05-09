@@ -10,9 +10,7 @@
  
  🔭 I’m currently working on **Problem Solving Skills**
  
- 🌱 I’m currently learning **Full Stack WEB3 Blockchain Development**
-- 📫 How to reach me **https://www.linkedin.com/in/tejas-keshwani-84aaa326a/**
-⚡ Fun fact **If you could sit near me , I'll for sure give you The FOMO**
+ 🌱 I’m currently learning **Full Stack Development**
 
  </div>
  
